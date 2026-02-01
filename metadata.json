@@ -1,0 +1,7 @@
+{
+  "name": "Project Lab - Soluções Completas",
+  "description": "Landing page de alta conversão para serviços de engenharia civil com tecnologia BIM, focada em economia de material e zero conflitos em obra.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
